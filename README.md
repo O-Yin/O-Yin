@@ -7,6 +7,7 @@ I am a Software Engineer, with experience working as a team at a finTech startup
 
 - 👨🏽 Pronouns: He/him
 - 💡 Fun fact: Certified by AltSchool Africa [School of Software Engineering](https://engineering.altschoolafrica.com/) Class of 2024.
+- 💡 Finalist - Top 432 out of 11,285, [HNG 12 Internship](https://hng.tech/) 2025 (Frontend Track).
 - 👷 Currently a Software Engineer and Team Lead at [Tech'N Goodwill Limited](https://techengood.com/)
 - 👷 Contract staff and Lead Software developer for [SafulPay](https://safulpay.com/about-us)
 - 🌱 I build with JavaScript/TypeScript (React.js, Next.js, Vue.js... ), HTML, CSS .
